@@ -1,3 +1,6 @@
 Hello world!
 Changes from master
+
+Changes from first
+
 Second changes master
